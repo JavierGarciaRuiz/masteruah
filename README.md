@@ -54,23 +54,23 @@ Para realizar la autenficacion en dos factores tenemos que acceder a ajustes>aut
 
 ### Perfil GitHub de mis compañeros
 
-Estos son los compañeros a los que he seguido en github:
+Compañeros elegidos: 
 
-[![image-20220315112441776]()](https://github.com/victor-aljama/masteruah2)[![image-20220315112535921]()](https://github.com/victor-aljama/masteruah2)[![image-20220315112637849]()](https://github.com/victor-aljama/masteruah2)[![image-20220315112732952]()](https://github.com/victor-aljama/masteruah2)
+<img src="C:\Users\Javi\AppData\Roaming\Typora\typora-user-images\image-20220316154208894.png" alt="image-20220316154208894" style="zoom:33%;" /><img src="C:\Users\Javi\AppData\Roaming\Typora\typora-user-images\image-20220316154320574.png" alt="image-20220316154320574" style="zoom:33%;" /><img src="C:\Users\Javi\AppData\Roaming\Typora\typora-user-images\image-20220316154352218.png" alt="image-20220316154352218" style="zoom:33%;" />
 
-Para añadir una estrella a sus repositorios debemos acceder a dicho apartado en cada uno de sus perfiles y pulsar sobre el icono de la estrella.
+Para añadir una estrella a sus repositorios hay que pulsar sobre ella cuando estemos en su perfil.
 
 ### Tabla con información de compañeros de clase
 
-| NOMBRE                        | GITHUB                                                      |
-| ----------------------------- | ----------------------------------------------------------- |
-| Javier García Ruiz            | [GitHub Javier García](https://github.com/JavierGarciaRuiz) |
-| Javier Escribano Claudel      | [GitHub Javier Escribano](https://github.com/javieresccla)  |
-| Rafael Damián Cristea Cristea | [GitHub Damián Cristea](https://github.com/MrDamian1723)    |
+| NOMBRE                        | GITHUB                                                     |
+| ----------------------------- | ---------------------------------------------------------- |
+| Víctor Aljama Iglesias        | [GitHub Víctor Aljama](https://github.com/victor-aljama)   |
+| Javier Escribano Claudel      | [GitHub Javier Escribano](https://github.com/javieresccla) |
+| Rafael Damián Cristea Cristea | [GitHub Damián Cristea](https://github.com/MrDamian1723)   |
 
 ### Colaboradores
 
-Si queremos añadir colaboradores al repositorio para que lo puedan modificar sin necesidad de realizar pull requests accederemos al repositorio deseado>ajustes>colaboradores>añadir. Una vez aquí necesitamos su email o nombre de usuario para enviar una invitación. El resultado final es este: [![image-20220315125447349]()](https://github.com/victor-aljama/masteruah2)
+Si queremos añadir colaboradores al repositorio para que lo puedan modificar sin necesidad de realizar pull requests accederemos al repositorio deseado>ajustes>colaboradores>añadir. Una vez aquí necesitamos su email o nombre de usuario para enviar una invitación.
 
 ### Organizaciones
 
